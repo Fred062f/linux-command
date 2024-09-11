@@ -14,4 +14,4 @@ This Python script prints a greeting message to the user.
 
 3. Move the script to a directory in your $PATH:
 
-    mv greet /usr/bin/gre
+    mv greet /usr/bin/greet
